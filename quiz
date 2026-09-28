@@ -1,0 +1,17 @@
+{ "Jm": [
+        { "question": "Guess the parish", "answer": ["Kingston"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM01.png"},
+        { "question": "Guess the parish", "answer": ["Saint Andrew"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM02.png"},
+        { "question": "Guess the parish", "answer": ["Saint Thomas"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM03.png"},
+        { "question": "Guess the parish", "answer": ["Portland"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM04.png"},
+        { "question": "Guess the parish", "answer": ["Saint Mary"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM05.png"},
+        { "question": "Guess the parish", "answer": ["Saint Ann"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM06.png"},
+        { "question": "Guess the parish", "answer": ["Trelawny"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM07.png"},
+        { "question": "Guess the parish", "answer": ["Saint James"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM08.png"},
+        { "question": "Guess the parish", "answer": ["Hanover"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM09.png"},
+        { "question": "Guess the parish", "answer": ["Westmoreland"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM10.png"},
+        { "question": "Guess the parish", "answer": ["Saint Elizabeth"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM11.png"},
+        { "question": "Guess the parish", "answer": ["Manchester"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM12.png"},
+        { "question": "Guess the parish", "answer": ["Clarendon"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM13.png"},
+        { "question": "Guess the parish", "answer": ["Saint Catherine"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Jamaica-Quiz/refs/heads/main/JM14.png"}
+    ]
+}
